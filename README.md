@@ -1,12 +1,19 @@
-# My Zootopia - Animal Website Generator
+# 🦁 My Zootopia - Animal Website Generator
 
-A Python program that generates animal information websites by fetching data from APIs.
+![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## Features
-- Fetches animal data from Wikipedia API
-- Generates responsive HTML pages
-- Secure configuration using .env files
+A Python tool that generates beautiful animal information websites by fetching data from APIs.
 
-## Installation
+## Features ✨
+- 🚀 Dynamic website generation from API data
+- 🔒 Secure configuration using environment variables
+- 📱 Responsive HTML templates
+- 🐍 Clean Python architecture
+
+## Installation ⚙️
+
+1. Clone the repository:
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/haryneidedala/My-Zootopia.git
+cd My-Zootopia
